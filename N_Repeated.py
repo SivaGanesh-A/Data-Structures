@@ -4,3 +4,4 @@ for i in nums:
     if i in seen:
         print(i)
     seen.add(i)
+print("shiva")
